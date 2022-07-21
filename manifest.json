@@ -1,0 +1,7 @@
+{ 
+    "manifest_version": "2", 
+    "name": "LinkedIn Autoconnect", 
+    "description": "Sends connection requests to people on LinkedIn.", 
+    "version": "1", 
+    "author": "Sahil Maheshwari"
+}
